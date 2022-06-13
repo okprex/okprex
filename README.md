@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @okprex // Kru
+- 🌱 I’m currently learning Web Developing Stack (PHP, Javascript, mySql)
